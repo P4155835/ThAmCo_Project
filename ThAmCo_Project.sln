@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThAmCo_InventoryManagement", "ThAmCo_Project\ThAmCo_InventoryManagement.csproj", "{9DE60D4A-637E-4364-AE0C-B26F08A950B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThAmCo_WebServiceAPI", "ThAmCo_WebServiceAPI\ThAmCo_WebServiceAPI.csproj", "{BCDEF508-B460-476E-AA76-E37F1C3D8E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementModel", "InventoryManagementModel\InventoryManagementModel.csproj", "{7FD76833-910F-4CA9-BC31-D2B69DF09404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThAmCo_InventoryManagement_Tests", "ThAmCo_InventoryManagement_Tests\ThAmCo_InventoryManagement_Tests.csproj", "{EA372A61-7980-42AC-97D3-EEB2FE44D5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThAmCo_WebServiceAPI_Tests", "ThAmCo_WebServiceAPI_Tests\ThAmCo_WebServiceAPI_Tests.csproj", "{9EEB8129-CFF1-473B-85BD-8ACA7AA97E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE60D4A-637E-4364-AE0C-B26F08A950B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE60D4A-637E-4364-AE0C-B26F08A950B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE60D4A-637E-4364-AE0C-B26F08A950B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE60D4A-637E-4364-AE0C-B26F08A950B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDEF508-B460-476E-AA76-E37F1C3D8E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDEF508-B460-476E-AA76-E37F1C3D8E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDEF508-B460-476E-AA76-E37F1C3D8E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDEF508-B460-476E-AA76-E37F1C3D8E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD76833-910F-4CA9-BC31-D2B69DF09404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD76833-910F-4CA9-BC31-D2B69DF09404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD76833-910F-4CA9-BC31-D2B69DF09404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD76833-910F-4CA9-BC31-D2B69DF09404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA372A61-7980-42AC-97D3-EEB2FE44D5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA372A61-7980-42AC-97D3-EEB2FE44D5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA372A61-7980-42AC-97D3-EEB2FE44D5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA372A61-7980-42AC-97D3-EEB2FE44D5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEB8129-CFF1-473B-85BD-8ACA7AA97E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEB8129-CFF1-473B-85BD-8ACA7AA97E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEB8129-CFF1-473B-85BD-8ACA7AA97E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEB8129-CFF1-473B-85BD-8ACA7AA97E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

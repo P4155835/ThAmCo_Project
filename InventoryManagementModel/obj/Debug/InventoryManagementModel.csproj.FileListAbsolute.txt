@@ -1,0 +1,30 @@
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\InventoryManagementModel.dll.config
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\InventoryManagementModel.dll
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\InventoryManagementModel.pdb
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\obj\Debug\InventoryManagementModel.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\obj\Debug\InventoryManagementModel.dll
+C:\Users\Tom\Desktop\ThAmCo_Project16.12.2016-SubmethodForGrabbingForUcDdDone\InventoryManagementModel\obj\Debug\InventoryManagementModel.pdb
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\InventoryManagementModel.dll.config
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\InventoryManagementModel.dll
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\InventoryManagementModel.pdb
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\obj\Debug\InventoryManagementModel.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\obj\Debug\InventoryManagementModel.dll
+C:\Users\Tom\Desktop\ThAmCo_Project19.12.2016 PriceForOneMergedIntoPrice\InventoryManagementModel\obj\Debug\InventoryManagementModel.pdb
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\InventoryManagementModel.dll.config
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\InventoryManagementModel.dll
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\InventoryManagementModel.pdb
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\obj\Debug\InventoryManagementModel.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\obj\Debug\InventoryManagementModel.dll
+C:\Users\Tom\Desktop\ThAmCo_Project04.01.2017 working on testing issues\InventoryManagementModel\obj\Debug\InventoryManagementModel.pdb
